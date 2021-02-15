@@ -28,7 +28,5 @@ Changelog:
 
 
 
-Thank you to Pingopete, Avera9eJoe, Jesús Rodríguez, theyseN, Vabien and everyone else who helped me test, and make these
-Config
-																																															Thanks everyone,
-																																																				-It's Just Luci.
+Thank you to Pingopete, Avera9eJoe, Jesús Rodríguez, theyseN, Vabien and everyone else who helped me test, and make these configs
+-It's Just Luci.
