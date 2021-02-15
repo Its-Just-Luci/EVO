@@ -22,3 +22,13 @@ Changelog:
   * Added Godrays
   * Added a new TUFX preset based off of Pingopete's RVE64k KS3P preset
       * Other Minor Changes to Earth and Mars' Configs
+
+
+
+
+
+
+Thank you to Pingopete, Avera9eJoe, Jesús Rodríguez, theyseN, Vabien and everyone else who helped me test, and make these
+Config
+																																															Thanks everyone,
+																																																				-It's Just Luci.
