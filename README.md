@@ -4,6 +4,21 @@
 
 Changelog:
 
+  **v0.2 for RSS 18.1.4**
+
+  * Added Fog to Venus and Titan thanks to Tony48's KSRSSVE
+  * Added Dust to Mars thanks to Tony48's KSRSSVE
+  * Redid Earth's Atmosphere to be more realistic and aesthetic
+  * Added Auroras to Jupiter
+  * Added a Hexagon to Saturn using textures from AVP by themaster401
+  * Added New City Lights Cubemap from Space Engine HD (these are not licensed under the share-alike license! Contact the SE team like I did)
+  * Added New City Lights Surface Texture
+  * Added Geysers to Enceladus
+  * Added Lava (Repurposed City Lights) to IO
+  * Fixed Titans Atmosphere
+  * Fixed Land textures not showing up in 64k
+  * Removed Auroras from Earth, as they were causing problems with the Land Cubemaps (plan to add back later)
+
   **v0.1a for RSS 18.1.3**
 
   * Incorporated all of RSSVE other than Earth
@@ -21,7 +36,7 @@ Changelog:
   * Incorporated New Scatterer, allowing for Wave Physics
   * Added Godrays
   * Added a new TUFX preset based off of Pingopete's RVE64k KS3P preset
-      * Other Minor Changes to Earth and Mars' Configs
+    * Other Minor Changes to Earth and Mars' Configs
 
 
 
