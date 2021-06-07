@@ -2,6 +2,11 @@
 
                                        Extreme Visual Overhaul for Real Solar System 
 
+Install Instructions as of 0.3+:
+1. Remove the following mods: EVO, EnvironmentalVisualEnhancements, RSSVE, RVE, Scatterer, TUFX and any other EVE or Scatterer dependent mod.
+2. Install EVO by dragging all files in the release into the GameData folder
+3. Cry because framerate
+
 Changelog:
 
   **v0.2 for RSS 18.1.4**
